@@ -53,16 +53,20 @@
 			laserfalloff=laserfalloff.tga;
 			randdots=randdots.tga;
 			smoketrail=smoketrail.tga;
-			wake=wake.tga;
-			uglynovaexplo=CC/uglynovaexplo.tga;
+			wake=wake.png;
 			flare=flare.tga;
 			explo=explo.tga;
 			explofade=explofade.tga;
 			heatcloud=explo.tga;
 			flame=flame.tga;
-			
-		        orangesmoke3=GPL/smoke_orange.png;
+			graysmoke=graysmoke.tga;
+			bombsmoke=bombsmoke.tga;
+			fireball=fireball.tga;
+
 			flare=flare.tga;
+			shard1=shard1.tga;
+			shard2=shard2.tga;
+			shard3=shard3.tga;
 			2explo=2explo.tga;
 			redexplo=redexplo.tga;
 			purpleexplo=purpleexplo.tga;
@@ -74,21 +78,28 @@
 			muzzlefront=muzzlefront.png;
 			bigexplo=bigexplo.tga;
 			bigexplosmoke=bigexplosmoke.tga;
-                        sakexplo=sakexplo.tga;
-                        sparkexplo=sparkexplo.tga;
-                        cloudexplo=cloudexplo.tga;
-                        flowexplo=flowexplo.tga;
-                        mildexplo=mildexplo.tga;
-                        spikeexplo=spikeexplo.tga;
-                        starexplo=starexplo.tga;
-                        graysmoke=graysmoke.tga;
-                        fireball=fireball.tga;
+			sakexplo=sakexplo.tga;
+			sparkexplo=sparkexplo.tga;
+			cloudexplo=cloudexplo.tga;
+			flowexplo=flowexplo.tga;
+			flowexplo2=flowexplo2.tga;
+			mildexplo=mildexplo.tga;
+			spikeexplo=spikeexplo.tga;
+			starexplo=starexplo.tga;
+			greenexplo=greenexplo.tga;
 
-	
+			gunshot=CC/gunshot.tga;
 			flash1=flash1.tga;
 			flash2=flash2.tga;
 			flash3=flash3.tga;
+			armsmoketrail=armsmoketrail.tga;
+			coresmoketrail=coresmoketrail.tga;
 			shotgunflare=shotgunflare.tga;
+			lightb=PD/lightningball.tga;
+			lightb2=PD/lightningball2.tga;
+			lightning=PD/lightning.tga;
+
+			plasma=GPL/plasma.tga;
 
 			flashside1=flashside1.tga;
 			shotgunside=shotgunside.tga;
@@ -97,15 +108,20 @@
 			shot=shot.tga;	
 			beamrifle=beamrifle.tga;
 			beamrifletip=beamrifletip.tga;
-			
+			smallflare=GPL/smallflare.tga;
 			dirt=CC/dirt.png;
-
 			smoke=smoke/smoke00.tga;
 			diamondstar=diamondstar.tga;
 			whitelight=lightw.bmp;
-      yellowlight=lighty.bmp;
-	  
-		    sporetrail=GPL/sporetrail.tga;
+			whitelight2=lightw.tga;
+			yellowlight=lighty.bmp;
+
+			nanoball=nanoball.tga;
+
+			//Chicken Defense effects
+			uglynovaexplo=CC/uglynovaexplo.tga;
+			orangesmoke3=GPL/smoke_orange.png;
+			sporetrail=GPL/sporetrail.tga;
 			blooddrop=PD/blooddrop.tga;
 			bloodblast=PD/bloodblast.tga;
 			bloodsplat=PD/bloodsplat.tga;

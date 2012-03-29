@@ -2,7 +2,7 @@ return {
   name='BA Chicken Defense',
   description='Defend against attacking Chickens!',
   shortname='BA',
-  version='V2.38',
+  version='V2.41',
   mutator='Official',
   game='Total Annihilation',
   shortGame='TA',
