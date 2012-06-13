@@ -24,7 +24,7 @@ unitDef = {
   maxVelocity       = 0,
   seismicSignature  = 4,
   noAutoFire        = false,
-  objectName        = "roost.3do",
+  objectName        = "roost.s3o",
   selfDestructAs    = "ROOST_DEATH",
 
   sfxtypes          = {

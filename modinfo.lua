@@ -2,13 +2,13 @@ return {
   name='BA Chicken Defense',
   description='Defend against attacking Chickens!',
   shortname='BA',
-  version='V2.41',
+  version='$VERSION',
   mutator='Official',
   game='Total Annihilation',
   shortGame='TA',
   modtype=1,
   depend = {
-    'Balanced Annihilation V7.66',
+    'Balanced Annihilation V7.68',
   },
   NTAI = {
     tdfpath='BA';
